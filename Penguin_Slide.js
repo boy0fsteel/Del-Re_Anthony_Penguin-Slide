@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<style>
+<style>  
 body {
  font-family: Verdana, Helvetica, sans-serif;
 }
