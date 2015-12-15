@@ -104,18 +104,7 @@ ctx.beginPath();
 
 function drawSnowman(){
 
-      ellipse(200, 300, 100, 100);
-      ellipse(200, 200, 75, 75);
-      ellipse(200, 120, 50, 50);
       
-    
-      context.beginPath();
-      context.arc(centerX, centerY, radius, 0, 2 * Math.PI, false);
-      context.fillStyle = 'green';
-      context.fill();
-      context.lineWidth = 5;
-      context.strokeStyle = '#003300';
-      context.stroke();
 
 
 
